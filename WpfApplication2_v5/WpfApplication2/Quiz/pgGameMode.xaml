@@ -1,0 +1,24 @@
+﻿<Page x:Class="Maths_Quiz_App.Quiz.pgGameMode"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Maths_Quiz_App.Quiz"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="pgGameMode" Height="400" Width="525">
+
+    <StackPanel Margin="30 10 30 10">
+        <StackPanel.Background>
+            <ImageBrush ImageSource="..\pinkbackground.jpg" Stretch="UniformToFill"/>
+        </StackPanel.Background>
+        <Label Content="Game Mode" Margin="0 0 0 10" FontSize="16" HorizontalAlignment="Center" FontWeight="Bold" />
+        <Button x:Name="btnNormal" Content="Normal Mode" Margin="0 0 0 10" FontSize="16" Click="btnNormal_Click" />
+        <Button x:Name="btnOperator" Content="Specific Operator Mode" Margin="0 10 0 10" FontSize="16" Click="btnOperator_Click" />
+        <Frame x:Name="Main"/>
+
+        <!--
+        <TextBox x:Name="textBox1" />
+        -->
+    </StackPanel>
+</Page>

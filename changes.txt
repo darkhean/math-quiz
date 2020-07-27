@@ -1,0 +1,8 @@
+Modified the login sql statement so that the password is encoded using PASSWORD function.
+
+25/7/2020
+Beautify login and register pages.
+
+Changed the activity startup position to center.
+
+Fixed the tab order.

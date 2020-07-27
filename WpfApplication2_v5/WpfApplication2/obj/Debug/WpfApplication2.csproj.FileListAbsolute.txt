@@ -1,0 +1,457 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Login.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Register.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.dll.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.dll.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojAssemblyReference.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Register.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Login.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.CopyComplete
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Register.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Login.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v2\WpfApplication2\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_BLL.dll.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_DAL.dll.config
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.csprojAssemblyReference.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Register.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Login.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.csproj.CopyComplete
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Kok Hong\Desktop\340 CT\WpfApplication2_v3\WpfApplication2_v3\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Register.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Login.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v4\WpfApplication2_v4\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Register.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Login.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_BLL.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_DAL.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_Models.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MySql.Data.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Buffers.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Memory.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Zstandard.Net.dll
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_BLL.pdb
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_DAL.pdb
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MathGame_Models.pdb
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\MySql.Data.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Buffers.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Memory.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Register.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\MainActivity.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgGameMode.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgOperators.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgQuestions.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgStart.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Register.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl2.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl3.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl4.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl5.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard lvl6.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Leaderboard\leaderboard_home.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Login.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\MainActivity.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgDifficultyLevel.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgGameMode.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgOperators.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgQuestions.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\Quiz\pgStart.baml
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Acer Nitro 5\Desktop\Inti\BCSCU\Sem 8\340CT SOFTWARE QUALITY AND PROCESS MANAGEMENT\Assignment\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2_v5\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache

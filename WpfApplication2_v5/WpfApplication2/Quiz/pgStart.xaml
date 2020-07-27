@@ -1,0 +1,21 @@
+﻿<Page x:Class="Maths_Quiz_App.Quiz.pgStart"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Maths_Quiz_App.Quiz"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="pgStart" Height="350" Width="525">
+
+    <StackPanel Margin="30 30 30 30">
+        <StackPanel.Background>
+            <ImageBrush ImageSource="..\pinkbackground.jpg" Stretch="UniformToFill"/>
+        </StackPanel.Background>
+        <Label Content="Quiz App" Margin="50 0 50 10" FontSize="16" HorizontalAlignment="Center" FontWeight="Bold" />
+        <Button x:Name="btnStart" Content="Start Quiz" Margin="0 10 0 10" FontSize="16" Click="btnStart_Click"/>
+
+        <Frame x:Name="Main" />
+        <Button x:Name="btnLeaderboard" Content="Leaderboard" Margin="0 10 0 10" FontSize="16" Click="btnLeaderboard_Click"/>
+    </StackPanel>
+</Page>

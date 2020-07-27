@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication2", "WpfApplication2\WpfApplication2.csproj", "{7349383E-BD39-4352-9048-9A03769A7B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathGame_BLL", "MathGame_BLL\MathGame_BLL.csproj", "{34ABE391-5AF7-4BBE-85FD-524F0BC41706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathGame_Models", "MathGame_Models\MathGame_Models.csproj", "{3FE8BC5B-F231-4393-885C-96D0F76D0616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathGame_DAL", "MathGame_DAL\MathGame_DAL.csproj", "{AD31FE9F-BB4A-4080-80E3-C8DCFF632325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7349383E-BD39-4352-9048-9A03769A7B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7349383E-BD39-4352-9048-9A03769A7B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7349383E-BD39-4352-9048-9A03769A7B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7349383E-BD39-4352-9048-9A03769A7B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34ABE391-5AF7-4BBE-85FD-524F0BC41706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34ABE391-5AF7-4BBE-85FD-524F0BC41706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34ABE391-5AF7-4BBE-85FD-524F0BC41706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34ABE391-5AF7-4BBE-85FD-524F0BC41706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE8BC5B-F231-4393-885C-96D0F76D0616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE8BC5B-F231-4393-885C-96D0F76D0616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE8BC5B-F231-4393-885C-96D0F76D0616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE8BC5B-F231-4393-885C-96D0F76D0616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD31FE9F-BB4A-4080-80E3-C8DCFF632325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD31FE9F-BB4A-4080-80E3-C8DCFF632325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD31FE9F-BB4A-4080-80E3-C8DCFF632325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD31FE9F-BB4A-4080-80E3-C8DCFF632325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
